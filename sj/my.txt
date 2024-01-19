@@ -1,0 +1,9 @@
+﻿{
+"storeHouse": [
+{"sourceName":"🏆蚂蚁窝①🏅12.4更新","sourceUrl":"https://pan.shangui.cc/f/KDpQc6/%EF%BB%BF%E8%9A%82%E8%9A%81%E7%AA%9D1%E5%B1%80.txt"},
+{"sourceName":"🏆蚂蚁窝②🏅11.26更新","sourceUrl":"https://pan.shangui.cc/f/mBYNHb/%E8%9A%82%E8%9A%81%E7%AA%9D2%E5%B1%80.txt"},
+{"sourceName":"🏆蚂蚁窝③🏅11.6更新","sourceUrl":"https://pan.shangui.cc/f/X2yqFd/%E8%9A%82%E8%9A%81%E7%AA%9D3%E5%B1%80.txt"},
+{"sourceName":"🏆蚂蚁窝④🏅待更","sourceUrl":"https://pan.shangui.cc/f/vYYnHk/%E8%9A%82%E8%9A%81%E7%AA%9D4.txt"},
+{"sourceName":"🏆蚂蚁窝⑤🏅","sourceUrl":"https://agit.ai/hu/hcr/raw/branch/master/99668.txt"}
+]}
+

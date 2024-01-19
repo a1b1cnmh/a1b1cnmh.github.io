@@ -1,0 +1,257 @@
+#EXTM3U
+#EXTINF:-1 ,====== 辽宁联通,#genre# ======
+http://0/0.m3u8
+#EXTINF:-1 ,辽宁卫视
+http://cd.sy012.com:4000/rtp/232.0.0.144:9108
+#EXTINF:-1 ,辽宁都市
+http://cd.sy012.com:4000/rtp/232.0.0.42:8856
+#EXTINF:-1 ,辽宁体育
+http://cd.sy012.com:4000/rtp/232.0.0.66:8820
+#EXTINF:-1 ,辽宁影视剧
+http://cd.sy012.com:4000/rtp/232.0.0.97:8534
+#EXTINF:-1 ,辽宁经济
+http://cd.sy012.com:4000/rtp/232.0.0.155:9320
+#EXTINF:-1 ,辽宁公共
+http://cd.sy012.com:4000/rtp/232.0.0.156:9322
+#EXTINF:-1 ,辽宁北方
+http://cd.sy012.com:4000/rtp/232.0.0.211:9240
+#EXTINF:-1 ,辽宁生活
+http://cd.sy012.com:4000/rtp/232.0.0.212:9242
+#EXTINF:-1 ,辽宁教育青少
+http://cd.sy012.com:4000/rtp/232.0.0.230:9356
+#EXTINF:-1 ,辽宁新动漫
+http://cd.sy012.com:4000/rtp/232.0.0.153:9316
+#EXTINF:-1 ,辽宁移动电视
+http://cd.sy012.com:4000/rtp/232.0.0.167:9338
+#EXTINF:-1 ,葫芦岛综合
+http://cd.sy012.com:4000/rtp/232.0.0.238:9260
+#EXTINF:-1 ,葫芦岛公共
+http://cd.sy012.com:4000/rtp/232.0.0.239:9262
+#EXTINF:-1 ,CCTV-1
+http://cd.sy012.com:4000/rtp/232.0.0.27:8808
+#EXTINF:-1 ,CCTV-2
+http://cd.sy012.com:4000/rtp/232.0.0.132:9144
+#EXTINF:-1 ,CCTV-3
+http://cd.sy012.com:4000/rtp/232.0.0.198:9214
+#EXTINF:-1 ,CCTV-4亚洲
+http://cd.sy012.com:4000/rtp/232.0.0.148:9142
+#EXTINF:-1 ,CCTV-4欧州
+http://cd.sy012.com:4000/rtp/232.0.0.210:9238
+#EXTINF:-1 ,CCTV-4美州
+http://cd.sy012.com:4000/rtp/232.0.0.145:9110
+#EXTINF:-1 ,CCTV-5
+http://cd.sy012.com:4000/rtp/232.0.0.196:9210
+#EXTINF:-1 ,CCTV-5+
+http://cd.sy012.com:4000/rtp/232.0.0.93:8750
+#EXTINF:-1 ,CCTV-6
+http://cd.sy012.com:4000/rtp/232.0.0.194:9206
+#EXTINF:-1 ,CCTV-7
+http://cd.sy012.com:4000/rtp/232.0.0.133:9146
+#EXTINF:-1 ,CCTV-8
+http://cd.sy012.com:4000/rtp/232.0.0.28:8710
+#EXTINF:-1 ,CCTV-9
+http://cd.sy012.com:4000/rtp/232.0.0.134:9148
+#EXTINF:-1 ,CCTV-10
+http://cd.sy012.com:4000/rtp/232.0.0.135:9150
+#EXTINF:-1 ,CCTV-11
+http://cd.sy012.com:4000/rtp/232.0.0.168:9340
+#EXTINF:-1 ,CCTV-12
+http://cd.sy012.com:4000/rtp/232.0.0.136:9152
+#EXTINF:-1 ,CCTV-13
+http://cd.sy012.com:4000/rtp/232.0.0.146:9112
+#EXTINF:-1 ,CCTV-14
+http://cd.sy012.com:4000/rtp/232.0.0.137:9154
+#EXTINF:-1 ,CCTV-15
+http://cd.sy012.com:4000/rtp/232.0.0.169:9342
+#EXTINF:-1 ,CCTV-16
+http://cd.sy012.com:4000/rtp/232.0.0.36:8694
+#EXTINF:-1 ,CCTV-17
+http://cd.sy012.com:4000/rtp/232.0.0.63:8686
+#EXTINF:-1 ,CCTV第一剧场
+http://cd.sy012.com:4000/rtp/232.0.0.147:9132
+#EXTINF:-1 ,CCTV怀旧剧场
+http://cd.sy012.com:4000/rtp/232.0.0.204:9226
+#EXTINF:-1 ,CCTV风云剧场
+http://cd.sy012.com:4000/rtp/232.0.0.52:8610
+#EXTINF:-1 ,CCTV风云足球
+http://cd.sy012.com:4000/rtp/232.0.0.90:9286
+#EXTINF:-1 ,CCTV央视精品
+http://cd.sy012.com:4000/rtp/232.0.0.107:8698
+#EXTINF:-1 ,CCTV风云音乐
+http://cd.sy012.com:4000/rtp/232.0.0.108:9288
+#EXTINF:-1 ,CCTV女性时尚
+http://cd.sy012.com:4000/rtp/232.0.0.120:8858
+#EXTINF:-1 ,CCTV兵器科技
+http://cd.sy012.com:4000/rtp/232.0.0.121:8882
+#EXTINF:-1 ,CCTV央视台球
+http://cd.sy012.com:4000/rtp/232.0.0.122:9290
+#EXTINF:-1 ,CCTV世界地理
+http://cd.sy012.com:4000/rtp/232.0.0.123:9292
+#EXTINF:-1 ,CCTV电视指南
+http://cd.sy012.com:4000/rtp/232.0.0.124:9294
+#EXTINF:-1 ,====== CGTN.http://cd.sy012.com:4000/rtp/232.0.0.201:9220 ======
+http://1/1.m3u8
+#EXTINF:-1 ,CGTN记录
+http://cd.sy012.com:4000/rtp/232.0.0.202:9222
+#EXTINF:-1 ,CGTN法语
+http://cd.sy012.com:4000/rtp/232.0.0.176:9170
+#EXTINF:-1 ,CGTN西语
+http://cd.sy012.com:4000/rtp/232.0.0.191:9200
+#EXTINF:-1 ,CGTN俄语
+http://cd.sy012.com:4000/rtp/232.0.0.43:8660
+#EXTINF:-1 ,CGTN阿语
+http://cd.sy012.com:4000/rtp/232.0.0.8:8664
+#EXTINF:-1 ,CETV1
+http://cd.sy012.com:4000/rtp/232.0.0.192:9202
+#EXTINF:-1 ,CETV2
+http://cd.sy012.com:4000/rtp/232.0.0.98:8612
+#EXTINF:-1 ,CETV4
+http://cd.sy012.com:4000/rtp/232.0.0.175:9354
+#EXTINF:-1 ,安多卫视
+http://cd.sy012.com:4000/rtp/232.0.0.236:9368
+#EXTINF:-1 ,安徽卫视
+http://cd.sy012.com:4000/rtp/232.0.0.138:9156
+#EXTINF:-1 ,兵团卫视
+http://cd.sy012.com:4000/rtp/232.0.0.67:8640
+#EXTINF:-1 ,北京卫视
+http://cd.sy012.com:4000/rtp/232.0.0.117:8860
+#EXTINF:-1 ,东方卫视
+http://cd.sy012.com:4000/rtp/232.0.0.128:9100
+#EXTINF:-1 ,东南卫视
+http://cd.sy012.com:4000/rtp/232.0.0.174:9352
+#EXTINF:-1 ,甘肃卫视
+http://cd.sy012.com:4000/rtp/232.0.0.50:8642
+#EXTINF:-1 ,广东卫视
+http://cd.sy012.com:4000/rtp/232.0.0.160:9120
+#EXTINF:-1 ,广西卫视
+http://cd.sy012.com:4000/rtp/232.0.0.127:9300
+#EXTINF:-1 ,贵州卫视
+http://cd.sy012.com:4000/rtp/232.0.0.171:9346
+#EXTINF:-1 ,海南卫视
+http://cd.sy012.com:4000/rtp/232.0.0.195:9208
+#EXTINF:-1 ,河北卫视
+http://cd.sy012.com:4000/rtp/232.0.0.64:8608
+#EXTINF:-1 ,河南卫视
+http://cd.sy012.com:4000/rtp/232.0.0.48:8666
+#EXTINF:-1 ,黑龙江卫视
+http://cd.sy012.com:4000/rtp/232.0.0.95:8866
+#EXTINF:-1 ,湖北卫视
+http://cd.sy012.com:4000/rtp/232.0.0.130:9104
+#EXTINF:-1 ,湖南卫视
+http://cd.sy012.com:4000/rtp/232.0.0.115:8864
+#EXTINF:-1 ,吉林卫视
+http://cd.sy012.com:4000/rtp/232.0.0.170:9344
+#EXTINF:-1 ,江苏卫视
+http://cd.sy012.com:4000/rtp/232.0.0.116:8862
+#EXTINF:-1 ,江西卫视
+http://cd.sy012.com:4000/rtp/232.0.0.112:8606
+#EXTINF:-1 ,康巴卫视
+http://cd.sy012.com:4000/rtp/232.0.0.237:9370
+#EXTINF:-1 ,内蒙古卫视
+http://cd.sy012.com:4000/rtp/232.0.0.111:8718
+#EXTINF:-1 ,宁夏卫视
+http://cd.sy012.com:4000/rtp/232.0.0.34:8644
+#EXTINF:-1 ,青海卫视
+http://cd.sy012.com:4000/rtp/232.0.0.101:8588
+#EXTINF:-1 ,厦门卫视
+http://cd.sy012.com:4000/rtp/232.0.0.101:8588
+#EXTINF:-1 ,山东卫视
+http://cd.sy012.com:4000/rtp/232.0.0.161:9122
+#EXTINF:-1 ,山东教育卫视
+http://cd.sy012.com:4000/rtp/232.0.0.200:9218
+#EXTINF:-1 ,山西卫视
+http://cd.sy012.com:4000/rtp/232.0.0.86:8558
+#EXTINF:-1 ,陕西卫视
+http://cd.sy012.com:4000/rtp/232.0.0.35:8590
+#EXTINF:-1 ,====== http://cd.sy012.com:4000/rtp/232.0.0.110:8868 ======
+http://3/3.m3u8
+#EXTINF:-1 ,四川卫视
+http://cd.sy012.com:4000/rtp/232.0.0.208:9234
+#EXTINF:-1 ,天津卫视
+http://cd.sy012.com:4000/rtp/232.0.0.131:9106
+#EXTINF:-1 ,西藏卫视
+http://cd.sy012.com:4000/rtp/232.0.0.114:8844
+#EXTINF:-1 ,西藏卫视（藏语）
+http://cd.sy012.com:4000/rtp/232.0.0.235:9366
+#EXTINF:-1 ,新疆卫视
+http://cd.sy012.com:4000/rtp/232.0.0.18:8722
+#EXTINF:-1 ,延边卫视
+http://cd.sy012.com:4000/rtp/232.0.0.184:9186
+#EXTINF:-1 ,云南卫视
+http://cd.sy012.com:4000/rtp/232.0.0.24:8604
+#EXTINF:-1 ,浙江卫视
+http://cd.sy012.com:4000/rtp/232.0.0.129:9102
+#EXTINF:-1 ,重庆卫视
+http://cd.sy012.com:4000/rtp/232.0.0.209:9236
+#EXTINF:-1 ,欢笑剧场4K
+http://cd.sy012.com:4000/rtp/232.0.0.150:9160
+#EXTINF:-1 ,都市剧场
+http://cd.sy012.com:4000/rtp/232.0.0.143:9310
+#EXTINF:-1 ,生活时尚
+http://cd.sy012.com:4000/rtp/232.0.0.125:9296
+#EXTINF:-1 ,游戏风云
+http://cd.sy012.com:4000/rtp/232.0.0.139:9302
+#EXTINF:-1 ,动漫秀场
+http://cd.sy012.com:4000/rtp/232.0.0.140:9304
+#EXTINF:-1 ,金色学堂
+http://cd.sy012.com:4000/rtp/232.0.0.141:9306
+#EXTINF:-1 ,法制天地
+http://cd.sy012.com:4000/rtp/232.0.0.142:9308
+#EXTINF:-1 ,上海纪实
+http://cd.sy012.com:4000/rtp/232.0.0.162:9124
+#EXTINF:-1 ,北京纪实
+http://cd.sy012.com:4000/rtp/232.0.0.185:9188
+#EXTINF:-1 ,金鹰纪实
+http://cd.sy012.com:4000/rtp/232.0.0.186:9190
+#EXTINF:-1 ,乐游
+http://cd.sy012.com:4000/rtp/232.0.0.126:9298
+#EXTINF:-1 ,金鹰卡通
+http://cd.sy012.com:4000/rtp/232.0.0.181:9180
+#EXTINF:-1 ,卡酷动画
+http://cd.sy012.com:4000/rtp/232.0.0.199:9216
+#EXTINF:-1 ,嘉佳卡通
+http://cd.sy012.com:4000/rtp/232.0.0.180:9178
+#EXTINF:-1 ,优漫卡通
+http://cd.sy012.com:4000/rtp/232.0.0.182:9182
+#EXTINF:-1 ,哈哈炫动
+http://cd.sy012.com:4000/rtp/232.0.0.103:8636
+#EXTINF:-1 ,沈阳新闻综合
+http://175.147.84.36:8888/rtp/232.0.0.206:1234
+#EXTINF:-1 ,睛彩竞技
+http://175.147.84.36:8888/rtp/232.0.0.19:1234
+#EXTINF:-1 ,睛彩蓝球
+http://175.147.84.36:8888/rtp/232.0.0.24:1234
+#EXTINF:-1 ,睛彩羽毛球
+http://175.147.84.36:8888/rtp/232.0.0.62:1234
+#EXTINF:-1 ,睛彩广场舞
+http://175.147.84.36:8888/rtp/232.0.0.64:1234
+#EXTINF:-1 ,炫动卡通
+http://175.147.84.36:8888/rtp/232.0.0.103:1234
+#EXTINF:-1 ,卡通少儿
+http://175.147.84.36:8888/rtp/232.0.0.54:1234
+#EXTINF:-1 ,爱上4K
+http://175.147.84.36:8888/rtp/232.0.0.187:1234
+#EXTINF:-1 ,安多藏语综合
+http://175.147.84.36:8888/rtp/232.0.0.105:1234
+#EXTINF:-1 ,康巴藏语综合
+http://175.147.84.36:8888/rtp/232.0.0.109:1234
+#EXTINF:-1 ,家庭理财
+http://175.147.84.36:8888/rtp/232.0.0.39:1234
+#EXTINF:-1 ,环球旅游
+http://175.147.84.36:8888/rtp/232.0.0.65:1234
+#EXTINF:-1 ,四海钓鱼
+http://175.147.84.36:8888/rtp/232.0.0.66:1234
+#EXTINF:-1 ,中华特产
+http://175.147.84.36:8888/rtp/232.0.0.89:1234
+#EXTINF:-1 ,优优宝贝
+http://175.147.84.36:8888/rtp/232.0.0.100:1234
+#EXTINF:-1 ,车谜
+http://175.147.84.36:8888/rtp/232.0.0.112:1234
+#EXTINF:-1 ,生态环境
+http://175.147.84.36:8888/rtp/232.0.0.113:1234
+#EXTINF:-1 ,百姓健康
+http://175.147.84.36:8888/rtp/232.0.0.121:1234
+#EXTINF:-1 ,中国天气
+http://175.147.84.36:8888/rtp/232.0.0.144:1234
+#EXTINF:-1 ,财富天下
+http://175.147.84.36:8888/rtp/232.0.0.147:1234
