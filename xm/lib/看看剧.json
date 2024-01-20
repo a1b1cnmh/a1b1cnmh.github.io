@@ -1,0 +1,18 @@
+{
+                "主页url": "https://kankanju.cc",
+                "副标题": "pic-text text-right\">&&</b>",
+                "搜索模式": "1",
+                "搜索url": "https://kankanju.cc/rss.xml?wd={wd}",
+                "搜索图片": "http://shop.kdzj.vip/1.jpg",
+                "嗅探词": "huoshanvod.com#mp4#m3u8",
+                "影片类型": "<div class=\"module-info-tag\">&&立即播放",
+                "导演": "导演：&&</div>",
+                "主演": "主演：&&</div>",
+                "简介": "introduction-content\">&&</span>",
+                "线路数组": "data-toggle=&&</li>[替换:KKJ线路>>蓝光#4K线路>>4K#TT线路>>套套#FY线路>>飞云#FF线路>>非凡#LZ线路>>量子#YZ线路>>优质#PQ线路>>佩奇][排序:4K>>蓝光>>飞云]",
+                "线路标题": "\"tab\">&&</a>[不包含:线路1#线路2#线路3]",
+                "跳转播放链接": "https://kankanju.cc/jx/play.php?url=+link_pre*url\":\"&&\"",
+                "二次跳转播放链接": "url*\"&&\"",
+                "分类": "电影$dianying#连续剧$dianshiju#综艺$zongyi#动漫$dongman#纪录片$jilupian",
+                "分类url": "https://kankanju.cc/vodshow/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html;;m"
+            }
