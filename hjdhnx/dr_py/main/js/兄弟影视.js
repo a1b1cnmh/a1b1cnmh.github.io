@@ -2,7 +2,7 @@ muban.mxone5.二级.desc = '.video-info-items:eq(4)&&Text;;;.video-info-actor:eq
 var rule = {
     title:'兄弟影视',
     模板:'mxone5',
-    host:'https://brovod.com',
+    host:'https://www.brovod.com/',
     // url:'/show/fyclass--------fypage---/',
     url:'/show/fyclassfyfilter/',
     filterable:1,//是否启用分类筛选,
